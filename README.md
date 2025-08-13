@@ -50,7 +50,7 @@ spa/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/mon-compte/food-ordering.git
+git clone https://github.com/maxime-athon/food-ordering.git
 cd food-ordering/spa
 ````
 
