@@ -84,10 +84,10 @@ Ouvrir [http://localhost:5173](http://localhost:5173)
 ## 📷 Aperçu
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="/images/image1.jpg" width="150"/>
-  <img src="/images/image2.jpg" width="150"/>
-  <img src="/images/image3.jpg" width="150"/>
-  <img src="/images/image4.jpg" width="150"/>
+  <img src="/spa/public/images/image1.jpg" width="150"/>
+  <img src="/spa/public/images/image2.jpg.png" width="150"/>
+  <img src="/spa/public/images/image3.jpg" width="150"/>
+  <img src="/spa/public/images/images4.jpg" width="150"/>
 </div>
 
 ---
