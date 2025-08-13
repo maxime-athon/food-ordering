@@ -1,0 +1,17 @@
+{
+  "name": "food-ordering-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^x.x.x",
+    "express": "^x.x.x"
+  },
+  "devDependencies": {
+    "nodemon": "^x.x.x"
+  }
+}

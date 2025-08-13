@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1",
+    "name": "Burger classique",
+    "description": "Steak, fromage, salade, sauce maison.",
+    "category": "Plat",
+    "price": 450,
+    "img": "/images/burger.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "Salade César",
+    "description": "Poulet grillé, croûtons, parmesan.",
+    "category": "Entrée",
+    "price": 350,
+    "img": "/images/salade.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "Mousse au chocolat",
+    "description": "Dessert maison.",
+    "category": "Dessert",
+    "price": 200,
+    "img": "/images/mousse.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Coca-Cola",
+    "description": "Canette 33cl",
+    "category": "Boisson",
+    "price": 150,
+    "img": "/images/coca.jpg"
+  }
+]
