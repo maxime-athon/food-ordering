@@ -77,7 +77,7 @@ L’API est disponible sur : `http://localhost:4000/api/products`
 npm run dev
 ```
 
-Ouvrir [http://localhost:5173](http://localhost:5173)
+Ouvrir [http://localhost:5173]()
 
 ---
 
